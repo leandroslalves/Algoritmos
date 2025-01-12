@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\bin\Debug\net8.0\EstudosDeAlgoritmos.exe
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\bin\Debug\net8.0\EstudosDeAlgoritmos.deps.json
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\bin\Debug\net8.0\EstudosDeAlgoritmos.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\bin\Debug\net8.0\EstudosDeAlgoritmos.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\bin\Debug\net8.0\EstudosDeAlgoritmos.pdb
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\refint\EstudosDeAlgoritmos.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.pdb
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\ref\EstudosDeAlgoritmos.dll
