@@ -12,3 +12,4 @@ C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\Estud
 C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.pdb
 C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.genruntimeconfig.cache
 C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\ref\EstudosDeAlgoritmos.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\EstudosDeAlgoritmos\EstudosDeAlgoritmos\obj\Debug\net8.0\EstudosDeAlgoritmos.sourcelink.json
