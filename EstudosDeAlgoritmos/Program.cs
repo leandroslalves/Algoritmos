@@ -1,14 +1,10 @@
-﻿
-using EstudosDeAlgoritmos;
+﻿using EstudosDeAlgoritmos;
 
-int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+int[] array = { 90, 70, 50, 80, 60, 85, 123, 111, 7, 23, 17 };
 
-var removeIndex = new RemoveItemIndex();
+Sort.SortArray(array);
 
-var result = removeIndex.Remove(array, 5);
-
-for (int i = 0; i < result.Length; i++)
+for (int i = 0; i < array.Length; i++)
 {
-    Console.WriteLine(result[i]);
+    Console.WriteLine(array[i]);
 }
-
