@@ -1,7 +1,7 @@
 ﻿
 namespace EstudosDeAlgoritmos
 {
-    public class Sort
+    public class BubbleSort
     {
         public static void SortArray(int[] array)
         {
