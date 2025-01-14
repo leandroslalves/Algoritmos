@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstudosDeAlgoritmos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e5919a6b1fd18f4f00891e57b23638daff3b826")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8a99acf919885b8c7d711958f5e3226df9d043")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstudosDeAlgoritmos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstudosDeAlgoritmos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
