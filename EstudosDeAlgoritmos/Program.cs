@@ -1,12 +1,36 @@
 ﻿using EstudosDeAlgoritmos;
 
-int[] array = { 90, 70, 50, 80, 60 };
+int[] array = GenerateRandomNumber(10);
 
-var insert = new InsertSort();
+Console.Write("Array desordenado: ");
+MostrarArray(array);
 
-var result = insert.SortArray(array);
+Console.WriteLine("\n\n-----------------------------------------------------");
 
-for (int i = 0; i < result.Length; i++)
+var merge = new MergeSort();
+
+var result = merge.SortArray(array, 0, array.Length - 1);
+
+Console.Write("\n\nArray ordenado: ");
+MostrarArray(result);
+Console.WriteLine("");
+
+static int[] GenerateRandomNumber(int size)
 {
-    Console.WriteLine(result[i]);
+    var array = new int[size];
+    var rand = new Random();
+    var maxNum = 10000;
+
+    for (int i = 0; i < size; i++)
+        array[i] = rand.Next(maxNum + 1);
+
+    return array;
+}
+
+static void MostrarArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"[{array[i]}] ");
+    }
 }

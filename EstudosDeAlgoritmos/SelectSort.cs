@@ -16,7 +16,7 @@
                     {
                         smallestVal = j;
                     }
-                 }
+                }
 
                 var tempVar = array[smallestVal];
                 array[smallestVal] = array[i];
